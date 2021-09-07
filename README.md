@@ -22,7 +22,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Test Cost
 ![image](TestCost.png)
 
-## SoC Verification 
+## System-on-Chip Verification 
 ![image](SoCVerification.png)
 
 ## Hardware Trojan
@@ -34,13 +34,13 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Hardware Obfuscation
 ![image](HardwareObfuscation.png)
 
-## PCB Authentication 
+## Printed Circuit Board Authentication
 ![image](PCBAuthentication.png)
 
-## SoC Security Requirements
+## System-on-hip Security Requirements
 ![image](SoCSecurityRequirements.png)
 
-## RFID
+## Radio Frequency Identification
 ![image](RFID.png)
 
 
