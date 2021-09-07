@@ -37,7 +37,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Printed Circuit Board Authentication
 ![image](PCBAuthentication.png)
 
-## System-on-hip Security Requirements
+## System-on-chip Security Requirements
 ![image](SoCSecurityRequirements.png)
 
 ## Radio Frequency Identification
