@@ -1,0 +1,13 @@
+﻿<Window x:Class="Hardware_Security.RFID"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hardware_Security"
+        mc:Ignorable="d"
+        Title="RFID" Height="582.964" Width="979.132" MaxWidth="979" MaxHeight="583">
+    <Grid Margin="0,0,25,18">
+        <Image Margin="10,10,0,0" Source="Slide11.JPG" Stretch="Fill"/>
+
+    </Grid>
+</Window>

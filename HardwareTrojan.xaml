@@ -1,0 +1,24 @@
+﻿<Window x:Class="Hardware_Security.HardwareTrojan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hardware_Security"
+        mc:Ignorable="d"
+        Title="HardwareTrojan" Height="595.891" Width="1040.074" MaxHeight="596" MaxWidth="1040">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="557" Margin="10,0,0,0" VerticalAlignment="Top" Width="998">
+            <TabItem Header="SoC Verification">
+                <Grid Background="#FFE5E5E5">
+                    <Image Margin="-3,8,0,0" Source="Slide5.JPG" Stretch="Fill"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Hardware Trojan">
+                <Grid Background="#FFE5E5E5" Margin="0,0,-1,5">
+                    <Image Margin="-3,4,10,10" Source="Slide6.JPG" Stretch="Fill"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

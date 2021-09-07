@@ -1,0 +1,25 @@
+﻿<Window x:Class="Hardware_Security.PCBAuthentication"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hardware_Security"
+        mc:Ignorable="d"
+        Title="PCBAuthentication" Height="501.708" Width="897.876" MaxWidth="899" MaxHeight="502">
+    <Grid Margin="0,0,26,20">
+        <TabControl HorizontalAlignment="Left" Height="453" Margin="10,10,0,0" VerticalAlignment="Top" Width="864">
+            <TabItem Header="PCB Authentication">
+                <Grid Background="#FFE5E5E5">
+                    <Image Margin="-3,2,10,10" Source="Slide9.JPG" Stretch="Fill"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="SoC Security Requirements">
+                <Grid Background="#FFE5E5E5">
+                    <Image Margin="0,10,10,10" Source="Slide10.JPG" Stretch="Fill"/>
+                </Grid>
+            </TabItem>
+            <Image Height="720" Source="Slide10.JPG" Stretch="Fill" Width="1280"/>
+        </TabControl>
+
+    </Grid>
+</Window>
