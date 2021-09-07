@@ -5,6 +5,6 @@ The project provides an introduction to hardware security.
 
 Confidential information is not displayed. 
 
-Please download the executable in https://github.com/alpaddesai/SystemVerilog/releases for details. 
+Please download the executable in https://github.com/alpaddesai/Hardware_Security/releases for details. 
 
 All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom.
