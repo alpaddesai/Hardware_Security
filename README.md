@@ -43,7 +43,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Radio Frequency Identification
 ![image](RFID.png)
 
-Additional details reference https://github.com/alpaddesai/MSECE_ArchitecturalDesign
+Additional details reference https://github.com/alpaddesai/ECE_ArchitecturalDesign
 
 
 
