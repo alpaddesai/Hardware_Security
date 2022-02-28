@@ -50,6 +50,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](SystemVerilogAssertions.png)
 
 ## System Verilog Verifications
-![image](SystemVerilogCertificate.png)
+![image](SystemVerilogCertificate.jpg)
 
 Additional details reference https://github.com/alpaddesai/MSECE_ArchitecturalDesign
