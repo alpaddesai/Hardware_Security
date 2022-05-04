@@ -56,4 +56,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](IntroductionCryptography.jpg) 
 #### referece geeksforgeeks.org
 
-Additional details reference https://github.com/alpaddesai/MSECE_ArchitecturalDesign
+Additional details reference https://github.com/alpaddesai/IntroductionToCryptography and  https://github.com/alpaddesai/MSECE_ArchitecturalDesign
