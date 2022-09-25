@@ -56,4 +56,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](IntroductionCryptography.jpg) 
 #### referece geeksforgeeks.org
 
+![image](USCopyrightCertificate.png)
+
 Additional details reference https://github.com/alpaddesai/MedicalDevices and https://github.com/alpaddesai/IntroductionToCryptography  
